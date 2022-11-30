@@ -32,6 +32,8 @@ Roles of Engineer:
 - They can see list of all the problems attended by him/her.
 - Engineer can change his password.
 
+
+
 Roles of Employee:
 
 - Employee can register himself with his username and password.
@@ -40,4 +42,21 @@ Roles of Employee:
 - Employee can see the status of their problem by using complain id . Status means they can check who (engineer) is assigned to his problem.
 - They can see all complain history raised by him/her.
 - Employee can change his/her password.
+
+![hw-sw support](https://user-images.githubusercontent.com/101393428/204730159-56c0feb0-b9fc-47f9-b132-7781f670b19b.png)
+
+
+# Sample Demo
+## Main Option - Home 
+![Main](https://user-images.githubusercontent.com/101393428/204723376-1326b96a-cb10-43fe-ae49-1e54894374b3.png)
+
+## HOD Option 
+![HOD](https://user-images.githubusercontent.com/101393428/204723652-5ba510b8-26b8-413b-82c0-7285097f4d11.png)
+
+## Engineer Option
+![Engineer](https://user-images.githubusercontent.com/101393428/204723894-9c4b8be6-1d1e-4c84-a20c-805bbb4992a5.png)
+
+## Employee Option
+![Employee](https://user-images.githubusercontent.com/101393428/204724053-bcb6057b-5406-4e92-9c4b-cff5554ab0a5.png)
+
 
